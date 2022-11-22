@@ -1,0 +1,7 @@
+#text {
+    word-break: break-all;
+}
+
+#userText {
+    outline: none!important;
+}
